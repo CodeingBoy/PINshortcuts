@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">快捷暗号</string>
+    <string name="title_activity_main">快捷暗号</string>
+    <string name="normal_password">请输入您原本的锁屏密码（会被用来解锁您的手机）</string>
+    <string name="normal_password_eg">例如： 1234</string>
+    <string name="add_shortcut">添加暗号</string>
+    <string name="title_activity_shortcut_creator">ShortcutCreator</string>
+    <string name="password_to_trigger">触发这个快捷动作的暗号</string>
+    <string name="select_app_hint">请选择您想在输入暗号后运行的应用</string>
+    <string name="choose_app">选择应用</string>
+    <string name="save">保存</string>
+    <string name="version">版本 2.0.1</string>
+    <string name="Settings">设置</string>
+    <string name="XDA">XDA Thread</string>
+    <string name="intro">这个模块可以让您设置不同的密码/图形密码来开启不同的应用。注意：这将降低您锁屏的安全性。请阅读 XDA 发布贴以获知更多详情及使用示例。</string>
+    <string name="title_activity_settings">设置</string>
+    <string name="remove_shortcut">删除暗号</string>
+    <string name="title_activity_pattern_shortcuts">图形暗号</string>
+    <string name="setnormal">设置解锁密码</string>
+    <string name="setNormalPattern">设置解锁图形密码</string>
+    <string name="title_activity_shortcut_creator_pattern">ShortcutCreatorPattern</string>
+    <string name="pattern_to_trigger">设置对应的图形暗号</string>
+
+</resources>
